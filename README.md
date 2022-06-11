@@ -1,7 +1,7 @@
 # Authors:
 * [Alessia Cotroneo](https://www.linkedin.com/in/alessia-cotroneo-18704b1a6/)
 * [Michele Di Sabato](https://www.linkedin.com/in/michele-di-sabato/)
-* [Alessandro Del Vitto](https://github.com/AlessandroDelVitto)
+* [Alessandro Del Vitto](https://www.linkedin.com/in/alessandro-del-vitto-46a9b9241/)
 
 # Artificial Neural Networks and Deep Learning course, Politecnico di Milano, 2021/2022
 Professors: [Matteo Matteucci](http://chrome.ws.dei.polimi.it/index.php?title=Matt%27s_Home_Page), [Giacomo Boracchi](https://boracchi.faculty.polimi.it/)
